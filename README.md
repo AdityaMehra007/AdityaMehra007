@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 [Live Portfolio ↗](https://adityamehra007.github.io) • 🧭 [Vibe Coding Superpower](#-the-ai-native-advantage-vibe-coding-at-enterprise-scale) • [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Stats](#-github-analytics--activity) • [Contact](#-direct-contact)
+### 🌐 [Live Portfolio ↗](https://adityamehra007.github.io) • 🧭 [Vibe Coding Superpower](#-the-ai-native-advantage-vibe-coding-at-enterprise-scale) • [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [Activity & Stats](#-github-contribution-activity--velocity) • [Contact](#-direct-contact)
 
 ---
 
@@ -135,17 +135,36 @@ In addition to software engineering, I bring extensive ground-level operational 
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 📊 GitHub Contribution Activity & Velocity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaMehra007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMehra007&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMehra007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 🟩 365-Day Real-Time Contribution Heatmap
+<a href="https://github.com/AdityaMehra007">
+  <img src="https://ghchart.rshah.org/2ea44f/AdityaMehra007" alt="Aditya Mehra's GitHub Contributions Calendar" width="100%" />
+</a>
+
+<br/><br/>
+
+### 🔥 Velocity, Streak & Language Footprint
+
+<table border="0" align="center">
+  <tr align="center">
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=AdityaMehra007&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaMehra007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMehra007&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
