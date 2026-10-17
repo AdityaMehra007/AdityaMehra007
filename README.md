@@ -13,7 +13,6 @@
 <br/><br/>
 
 [![Methodology: Vibe Coding](https://img.shields.io/badge/Engineered_With-Vibe%20Coding%20%26%20AI%20Swarms-7928CA?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/AdityaMehra007)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-adityamehra007.github.io-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityamehra007.github.io)
 [![Flagship Project](https://img.shields.io/badge/Flagship_Engine-OMEGA_OS-0070F3?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/AdityaMehra007/anti)
 [![Email](https://img.shields.io/badge/Email-adityamehra007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamehra007@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-009688?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bengaluru)
@@ -21,7 +20,7 @@
 
 ---
 
-### 🌐 [Live Portfolio ↗](https://adityamehra007.github.io) • 🧭 [Vibe Coding Superpower](#-the-ai-native-advantage-vibe-coding-at-enterprise-scale) • [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [Activity & Stats](#-github-contribution-activity--velocity) • [Contact](#-direct-contact)
+### 🧭 [Vibe Coding Superpower](#-the-ai-native-advantage-vibe-coding-at-enterprise-scale) • [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [Activity & Stats](#-github-contribution-activity--velocity) • [Contact](#-direct-contact)
 
 ---
 
