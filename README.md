@@ -30,7 +30,9 @@
 
 > *"The future of software engineering belongs to high-leverage operators who direct AI coding swarms with architectural taste, domain vision, and relentless test verification."*
 
-Every system, framework, and mobile app in this profile was engineered using **Vibe Coding & Agentic AI Orchestration**. Rather than typing repetitive boilerplate syntax, I operate as an **AI-Native Systems Director**—defining deep architectures, guiding autonomous agent loops, and enforcing hermetic testing harnesses:
+Every system, framework, and mobile app in this profile was engineered using **Vibe Coding & Agentic AI Orchestration**. Rather than typing repetitive boilerplate syntax, I operate as an **AI-Native Systems Director**—defining deep architectures, guiding autonomous agent loops, and enforcing hermetic testing harnesses.
+
+📖 **Read the Deep-Dive Architecture Document:** [**The Vibe Coding Manifesto: Autonomous Agent Directorship at Enterprise Scale ↗**](https://github.com/AdityaMehra007/anti/blob/master/docs/VIBE_CODING_AT_SCALE.md)
 
 * **⚡ Cross-Stack Directorship at 100x Speed:** Guided AI coding swarms to engineer production code across **Python/FastAPI** (`anti`), **Android & Kotlin** (`ADI-OS`, `BUSINESS-OS-`, `Eventos-Omega`), and **Angular 21 SSR** (`Aditya-Mehra`).
 * **🧪 Rigorous Verification over Vibes:** Vibe coding without testing is fragile; my systems are backed by **100% test-driven verification suites** (16/16 passing pytest suites, Room database schemas, and CI/CD pipelines).
