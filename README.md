@@ -92,7 +92,6 @@ I contribute bug fixes and cross-platform patches to major open-source ecosystem
 | Project | Pull Request | Technical Contribution | Status |
 | :--- | :--- | :--- | :---: |
 | **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** | [PR #9703](https://github.com/SimplifyJobs/Summer2027-Internships/pull/9703) | Guarded `time.tzset()` and enforced LF line endings for Windows compatibility | **In Review** ⏳ |
-| **[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)** | [PR #411](https://github.com/sudheerj/reactjs-interview-questions/pull/411) | Resolved TypeScript compilation errors in `useThrottle` and `useDebounceCallback` | **In Review** ⏳ |
 
 ---
 
