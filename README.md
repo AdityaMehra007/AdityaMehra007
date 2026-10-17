@@ -78,7 +78,7 @@ Every system, framework, and mobile app in this profile was engineered using **V
 ### 1. [OMEGA Autonomous Agent Architecture (`anti`)](https://github.com/AdityaMehra007/anti)
 > **Flagship Engine · Autonomous Career & Operations Intelligence Platform**
 * **18-Agent Swarm:** Self-directing agent hierarchy governing strategy, discovery, filtering, and execution DAGs.
-* **Inbound Offer & Calendar Dispatcher:** Parses recruiter inbounds, evaluates proposed CTC against a ₹3.0 LPA floor, generates automated counter-negotiation letters, and issues RFC 5545 `.ics` invitations (`Asia/Kolkata`).
+* **Inbound Offer & Calendar Dispatcher:** Parses recruiter inbounds, evaluates proposed CTC against a ₹6.0 LPA floor, generates automated counter-negotiation letters, and issues RFC 5545 `.ics` invitations (`Asia/Kolkata`).
 * **Opportunity Harvesting:** 4,500+ prospect B2B and talent pipeline engine with deduplication and verification proof hashing.
 * **Hermetic Test Suite:** 16/16 test-driven verification suite executed via `pytest`.
 
