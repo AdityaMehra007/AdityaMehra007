@@ -92,7 +92,6 @@ I contribute bug fixes and cross-platform patches to major open-source ecosystem
 | Project | Pull Request | Technical Contribution | Status |
 | :--- | :--- | :--- | :---: |
 | **[SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)** | [PR #2982](https://github.com/SimplifyJobs/New-Grad-Positions/pull/2982) | Enforced explicit UTF-8 cross-platform file encoding across Windows/Linux CI | **Approved** ✅ (`lgtm`) |
-| **[vanshb03/New-Grad-2027](https://github.com/vanshb03/New-Grad-2027)** | [PR #1554](https://github.com/vanshb03/New-Grad-2027/pull/1554) | Enforced UTF-8 encoding across reading/writing pipelines | **Reviewed** 👍 (`lgtm`) |
 | **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** | [PR #9703](https://github.com/SimplifyJobs/Summer2027-Internships/pull/9703) | Guarded `time.tzset()` and enforced LF line endings for Windows compatibility | **In Review** ⏳ |
 | **[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)** | [PR #411](https://github.com/sudheerj/reactjs-interview-questions/pull/411) | Resolved TypeScript compilation errors in `useThrottle` and `useDebounceCallback` | **In Review** ⏳ |
 
