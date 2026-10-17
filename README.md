@@ -19,7 +19,7 @@
 
 ---
 
-### 🧭 [Featured Systems](#-featured-systems--architecture) • [Open Source](#-upstream-open-source-contributions) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Stats](#-github-analytics--activity) • [Contact](#-direct-contact)
+### 🧭 [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Stats](#-github-analytics--activity) • [Contact](#-direct-contact)
 
 ---
 
@@ -83,17 +83,7 @@ I specialize in **Autonomous Systems Architecture, Commercial Operations Enginee
 * Live event operations management engine built with **Google Gemini AI**, **Android Room Database (SQLite)**, and **Jetpack Compose**.
 * Tracks attendee throughput, vendor allocation, emergency protocols, and budgets for stadium concerts and commercial summits.
 
----
 
-## 🌟 Upstream Open Source Contributions
-
-I contribute bug fixes and cross-platform patches to major open-source ecosystems:
-
-| Project | Pull Request | Technical Contribution | Status |
-| :--- | :--- | :--- | :---: |
-| **[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** | [PR #9703](https://github.com/SimplifyJobs/Summer2027-Internships/pull/9703) | Guarded `time.tzset()` and enforced LF line endings for Windows compatibility | **In Review** ⏳ |
-
----
 
 ## 💼 Commercial & Operations Background
 
