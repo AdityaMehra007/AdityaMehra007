@@ -1,118 +1,134 @@
 <div align="center">
 
 # ⚡ ADITYA MEHRA
-**Autonomous Systems Architect · Operations & Tech Innovator · Full-Stack Builder**  
-*Bengaluru, Karnataka, India*
+### Autonomous AI Systems Architect • Commercial Operations Strategist • Full-Stack Builder
+**Bengaluru, Karnataka, India 🇮🇳**
 
 <br/>
 
 <a href="https://github.com/AdityaMehra007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9333EA&center=true&vCenter=true&width=620&lines=Autonomous+Systems+%26+Agentic+AI+Architect;Commercial+Operations+%26+Process+Engineer;Full-Stack+FastAPI+%26+Android+Kotlin+Builder;BBA+International+Business+(DSU+Bengaluru)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=750&lines=Autonomous+AI+Systems+%26+Multi-Agent+Swarm+Architect;Bengaluru+Startup+Radar+%26+Venture+Telemetry+Engineer;Model+Context+Protocol+(MCP)+Master+Fleet+Hub+Builder;Commercial+Operator+%7C+Statutory+Form+26AS+%E2%82%B91.8Cr%2B+GMV;BBA+International+Business+%7C+Dayananda+Sagar+University" alt="Aditya Mehra Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Methodology: Vibe Coding](https://img.shields.io/badge/Engineered_With-Vibe%20Coding%20%26%20AI%20Swarms-7928CA?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/AdityaMehra007)
-[![Flagship Project](https://img.shields.io/badge/Flagship_Engine-OMEGA_OS-0070F3?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/AdityaMehra007/anti)
-[![Email](https://img.shields.io/badge/Email-adityamehra007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamehra007@gmail.com)
+[![Status: Open to Work](https://img.shields.io/badge/Status-Immediate%20Joining-brightgreen?style=for-the-badge&logo=target&logoColor=white)](mailto:ashishiash007@gmail.com)
+[![Flagship Engine](https://img.shields.io/badge/Flagship_Engine-OMEGA_Autonomous_AI-0070F3?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/AdityaMehra007/anti)
+[![Live Universe](https://img.shields.io/badge/Portfolio-adityamehra007.github.io-7928CA?style=for-the-badge&logo=githubpages&logoColor=white)](https://adityamehra007.github.io)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-009688?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bengaluru)
-[![Availability](https://img.shields.io/badge/Availability-Immediate%20Joining-brightgreen?style=for-the-badge)](mailto:adityamehra007@gmail.com)
+[![Direct Email](https://img.shields.io/badge/Email-ashishiash007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishiash007@gmail.com)
 
 ---
 
-### 🧭 [Vibe Coding Superpower](#-the-ai-native-advantage-vibe-coding-at-enterprise-scale) • [Featured Systems](#-featured-systems--architecture) • [Commercial Background](#-commercial--operations-background) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [Activity & Stats](#-github-contribution-activity--velocity) • [Contact](#-direct-contact)
+[Executive Overview](#-executive-overview) • [Flagship Architecture](#-flagship-engineered-systems) • [Mission Control Cockpits](#-live-mission-control-cockpits) • [Proof of Work](#-statutory-proof-of-work-pow) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Velocity](#-github-velocity--activity) • [Direct Contact](#-direct-contact--gateways)
 
 ---
 
 </div>
 
-## 🚀 The AI-Native Advantage: Vibe Coding at Enterprise Scale
+## 🌐 Executive Overview
 
-> *"The future of software engineering belongs to high-leverage operators who direct AI coding swarms with architectural taste, domain vision, and relentless test verification."*
+> *"The highest-value engineering in the AI era belongs to commercial operators who direct autonomous coding swarms with architectural clarity, deep domain grounding, and unfakeable statutory proof."*
 
-Every system, framework, and mobile app in this profile was engineered using **Vibe Coding & Agentic AI Orchestration**. Rather than typing repetitive boilerplate syntax, I operate as an **AI-Native Systems Director**—defining deep architectures, guiding autonomous agent loops, and enforcing hermetic testing harnesses.
+I operate at the convergence of **Autonomous AI Engineering** and **High-Stakes Commercial Operations**. 
 
-📖 **Read the Deep-Dive Architecture Document:** [**The Vibe Coding Manifesto: Autonomous Agent Directorship at Enterprise Scale ↗**](https://github.com/AdityaMehra007/anti/blob/master/docs/VIBE_CODING_AT_SCALE.md)
-
-* **⚡ Cross-Stack Directorship at 100x Speed:** Guided AI coding swarms to engineer production code across **Python/FastAPI** (`anti`), **Android & Kotlin** (`ADI-OS`, `BUSINESS-OS-`, `Eventos-Omega`), and **Angular 21 SSR** (`Aditya-Mehra`).
-* **🧪 Rigorous Verification over Vibes:** Vibe coding without testing is fragile; my systems are backed by **100% test-driven verification suites** (406/406 passing hermetic pytest suites, Room database schemas, and CI/CD pipelines).
-* **🎯 Commercial & Real-World Grounding:** Combining a **BBA in International Business** with agentic AI allowed me to build solving real problems—recruiter negotiation parsers, event staffing algorithms, and enterprise simulation state machines.
-
----
-
-## 📌 Executive Summary
+Rather than treating AI as an autocomplete toy, I build and operate **autonomous multi-agent swarms**, **Model Context Protocol (MCP) ecosystems**, **deterministic business state machines**, and **real-time market radars**—all rigorously verified by hermetic, 100% test-driven harnesses.
 
 ```
-+-----------------------------------------------------------------------------+
-|                      ADITYA MEHRA — VALUE PROPOSITION                       |
-+--------------------------------------+--------------------------------------+
-| 💼 COMMERCIAL OPERATIONS             | 🤖 AUTONOMOUS SYSTEMS & VIBE CODING  |
-| • BBA International Business (DSU)   | • 18-Agent Swarms & Execution DAGs   |
-| • Aero India & Brand Activations     | • FastAPI Control Planes & REST APIs |
-| • Instawork & Pencil Mark Operations | • Android Kotlin & Jetpack Compose   |
-| • High-Stakes Logistics & Telemetry  | • 100% Test-Driven Verification      |
-+--------------------------------------+--------------------------------------+
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                        ADITYA MEHRA — ENTERPRISE VALUE DUALITY                         │
+├────────────────────────────────────────┬───────────────────────────────────────────────┤
+│ 💼 COMMERCIAL & OPERATIONAL RECORD     │ 🤖 AUTONOMOUS AI & DISTRIBUTED SYSTEMS        │
+├────────────────────────────────────────┼───────────────────────────────────────────────┤
+│ • ₹1.60Cr – ₹1.80Cr+ GMV scale (26AS)  │ • OMEGA 19-in-1 Omni-Agent Swarm Hierarchy    │
+│ • IRDAI Regulated Advisor (>85% Pers.) │ • MCP Master Fleet Hub (260 Tools / 24 Srvs)  │
+│ • Aero India 2025 Zero-Downtime Ops    │ • Bengaluru Startup Radar (1,000+ Startups)   │
+│ • Corporate Audits: Tata Comm & Puma   │ • 3,837 Autonomous Agent Capability Skills    │
+│ • BBA Intl Business (DSU Bengaluru)    │ • 100% Test-Driven Hermetic Quality Gateways  │
+└────────────────────────────────────────┴───────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Systems & Architecture
+## 🚀 Flagship Engineered Systems
 
+### 1. [OMEGA: Autonomous Agent Architecture & Operating System](https://github.com/AdityaMehra007/anti)
+> **Master Sovereign Engine • Python, FastAPI, Model Context Protocol, 3,837 Skills**
+
+* **19-in-1 Omni-Agent Architecture**: Autonomous execution DAG coordinating research, strategy, code generation, verification, and automated operations.
+* **Bengaluru Supreme Startup Radar (BSIE-X)**: Market telemetry analyzing **1,000+ startups, 75 live roles, 16 VC rounds, and 234 chronological market deltas** with FTS5 search.
+* **Model Context Protocol (MCP) Hub**: 260 schema-validated tools across 24 servers with composite stdio multiplexer and multi-client config exporters.
+* **100% Hermetic Test Gateways**: 406/406 verified tests across database schemas, API contracts, ATS parsers, and autonomous pipelines.
+
+```mermaid
+flowchart LR
+    A["Raw Market Ingestion<br/>(1,000+ Startups / 4,500+ Leads)"] --> B["OMEGA Autonomous Agent Swarm<br/>(FastAPI / MCP Hub)"]
+    B --> C["Deterministic Scoring & ATS Matching<br/>(Google X-Y-Z Synthesis)"]
+    C --> D["Glassmorphism Cockpits<br/>(13 Live Mission Controls)"]
+    C --> E["Submission-Ready Dossiers<br/>(STAR Defense + InMails)"]
 ```
-                                  +-------------------------------+
-                                  |      OMEGA CONTROL PLANE      |
-                                  |   (FastAPI / 18-Agent Swarm)  |
-                                  +---------------+---------------+
-                                                  |
-                 +--------------------------------+--------------------------------+
-                 |                                |                                |
-                 v                                v                                v
-  +-----------------------------+  +-----------------------------+  +-----------------------------+
-  |         anti (Engine)       |  |         ADI-OS (Core)       |  |      BUSINESS-OS- (Tycoon)    |
-  | • 4,500+ Prospect Pipeline  |  | • Android/Kotlin Architecture| | • Enterprise State Machines |
-  | • Recruiter Offer Filters   |  | • Background Telemetry      |  | • Global Resource Modeling  |
-  | • RFC 5545 Calendar Dispatch|  | • Titan Device Services     |  | • Jetpack Compose Material 3|
-  +-----------------------------+  +-----------------------------+  +-----------------------------+
-```
 
-### 1. [OMEGA Autonomous Agent Architecture (`anti`)](https://github.com/AdityaMehra007/anti)
-> **Flagship Engine · Autonomous Career & Operations Intelligence Platform**
-* **18-Agent Swarm:** Self-directing agent hierarchy governing strategy, discovery, filtering, and execution DAGs.
-* **Inbound Offer & Calendar Dispatcher:** Parses recruiter inbounds, evaluates proposed CTC against a ₹6.0 LPA floor, generates automated counter-negotiation letters, and issues RFC 5545 `.ics` invitations (`Asia/Kolkata`).
-* **Opportunity Harvesting:** 4,500+ prospect B2B and talent pipeline engine with deduplication and verification proof hashing.
-* **Hermetic Test Suite:** 16/16 test-driven verification suite executed via `pytest`.
+---
 
-### 2. [ADI-OS](https://github.com/AdityaMehra007/ADI-OS)
-> **Modular System Control & Mobile Powers in Kotlin**
-* Core Android architecture framework designed for modular power management, background task dispatching, and device integration.
+### 2. [Eventos-Omega: Large-Scale Event Operations Engine](https://github.com/AdityaMehra007/Eventos-Omega)
+> **Enterprise Event Logistics Platform • Kotlin, Jetpack Compose, Room SQLite, Google Gemini AI**
+
+* High-concurrency event operations engine tracking crowd throughput, vendor scheduling, emergency medical dispatches, and budget reconciliation.
+* Backed by **Google Gemini AI** for real-time crowd safety incident prediction and offline-first Room persistence.
+* Validated against high-stakes logistics standards derived from on-ground Aero India 2025 operations.
+
+---
+
+### 3. [BUSINESS-OS-: Deterministic Business Tycoon Engine](https://github.com/AdityaMehra007/BUSINESS-OS-)
+> **Enterprise Business Operating System • Kotlin, Jetpack Compose Material 3, Clean Architecture**
+
+* Deterministic operational state machines modeling enterprise treasury banking, global supply chain corridors, human resource workflows, and financial reconciliation.
+* Unidirectional Data Flow (UDF) architecture with reactive Kotlin Coroutines, StateFlow, and zero external runtime dependencies.
+
+---
+
+### 4. [ADI-OS: Modular Android System Control Platform](https://github.com/AdityaMehra007/ADI-OS)
+> **Modular Android Systems Architecture • Kotlin, Android SDK, WorkManager, Device Telemetry**
+
+* Modular device telemetry and background automation engine with adaptive power management, background task dispatching, and hardware sensor telemetry.
 * Clean architecture with reactive state flows, offline-first persistence, and CI build automation.
 
-### 3. [BUSINESS-OS-](https://github.com/AdityaMehra007/BUSINESS-OS-)
-> **Enterprise Business Tycoon Engine**
-* Deterministic operational state machines, financial models, and resource allocation pipelines built with **Kotlin and Jetpack Compose Material 3**.
-* Covers treasury banking, supply chain shipping, human resources, global trade corridors, and billing reconciliation.
+---
 
-### 4. [Eventos-Omega](https://github.com/AdityaMehra007/Eventos-Omega)
-> **AI-Powered Event Operations & Logistics Platform**
-* Live event operations management engine built with **Google Gemini AI**, **Android Room Database (SQLite)**, and **Jetpack Compose**.
-* Tracks attendee throughput, vendor allocation, emergency protocols, and budgets for stadium concerts and commercial summits.
+### 5. [Aditya Mehra Official Universe Portfolio](https://github.com/AdityaMehra007/AdityaMehra007.github.io)
+> **AI-Native Interactive Web Portfolio • [Live Demo: adityamehra007.github.io](https://adityamehra007.github.io)**
 
-### 5. [AI-EMPIRE-OS-](https://github.com/AdityaMehra007/AI-EMPIRE-OS-)
-> **AI Operator Mastery & Autonomous Skills**
-* High-leverage playbooks for the modern AI operator covering rapid model synthesis, automated job search skill trees (`find-a-job/`), and compounding capability loops.
+* Glassmorphism executive portfolio presenting real-time project telemetry, verified case studies, interactive resume viewers, and recruiter booking interfaces.
 
 ---
 
-## 💼 Commercial & Operations Background
+## 🎛️ Live Mission Control Cockpits
 
-In addition to software engineering, I bring extensive ground-level operational experience:
+Thirteen high-performance, single-file glassmorphism HTML dashboards engineered in [`anti`](https://github.com/AdityaMehra007/anti) with zero external build dependencies:
 
-* 🎓 **Education:** Bachelor of Business Administration (BBA) — International Business (2023–2026), **Dayananda Sagar University (DSU), Bengaluru**.
-* ✈️ **Aero India & Brand Activations (Bengaluru | 2021–2026):** Managed high-footfall customer sampling stalls for artisan brand *Salt in My Cocoa* at Aero India; coordinated crowd flow and live operations for the TRILOGY Concert.
-* 🏢 **Corporate Operations Internships (Bengaluru):**
-  * **Instawork Services India Pvt. Ltd. (2025):** Operations & data collection intern auditing business accounts and listings.
-  * **Pencil Mark Interior Solutions (2025):** Commercial operations intern managing billing documentation and material dispatch.
-* 📦 **Family Business Operations (Kolkata | 2018–2020):** Daily order dispatching, billing documentation, and inventory ledger maintenance.
+| Cockpit Name | Scope & Capabilities | Engine Backing |
+| :--- | :--- | :--- |
+| **OMNI Executive Cockpit** | Meta-dashboard linking all 14 suites, 6 live cockpits, and 16,553 vacancies | FastAPI / SQLite |
+| **Bengaluru Startup Radar** | 7-tab live radar: 1,000 startups, 75 roles, 16 funding rounds, FTS5 search | SQLite / BSIE-X |
+| **MCP Master Fleet Cockpit** | Real-time telemetry for 260 tools across 24 MCP servers + 1-click config export | JSON-RPC 2.0 Hub |
+| **APEX Career OS** | 7-agent closed-loop career conquest engine with STAR interview defense | Python / SQLite |
+| **Coolify Cloud Control** | Cloud cluster management, edge routing telemetry & 352-service marketplace | Docker / Traefik |
+| **Plane Issue Cockpit** | Sprint velocity curves, burndown metrics & Kanban issue lifecycle | REST / WebSocket |
+
+---
+
+## 📜 Statutory Proof of Work (PoW)
+
+*Every claim is backed by statutory Government of India records, regulatory licenses, and operational manifests:*
+
+| Verification Dimension | Statutory Proof Document | Governing Body / Entity | Verified Commercial Metric |
+| :--- | :--- | :--- | :--- |
+| **Commercial Scale (7 Years)** | Form 26AS / AIS (Section 194H) | Income Tax Dept., Govt. of India | **₹1.60Cr to ₹1.80Cr+ Annual GMV**; 7,500+ Group BP/cycle; 50+ Team. |
+| **Regulated Advisory (3 Years)** | Form 16A (Section 194D) & IRDAI License | IRDAI / Bajaj Allianz | **>85% Client Persistency Ratio**; zero infractions; HNI portfolio servicing. |
+| **Inside Sales Velocity** | Appointment Letter & Dialing Logs | BrightCHAMPS Edtech Pvt. Ltd. | **60+ Consultative Discovery Calls/Shift**; North American parent closing. |
+| **High-Stakes Live Staging** | Operational Accreditation | Aero India 2025 / Defense Expo | **1,000+ Attendee AV, Staging & Hardware Logistics** (Zero Downtime). |
+| **Corporate Asset Audits** | Internship Completion & Audit Logs | Tata Communications & Puma Sports | Multi-location IT asset reconciliation & retail operations audit. |
+| **Accredited Degree** | Degree Certificate & Official Transcripts | Dayananda Sagar University (DSU) | **BBA in International Business (Class of 2026)**; UGC accredited. |
 
 ---
 
@@ -120,46 +136,69 @@ In addition to software engineering, I bring extensive ground-level operational 
 
 <div align="center">
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Vibe Coding & Autonomous AI** | Agentic Workflows, Tool Calling, Multi-Agent Swarms, Prompt Architecture, LLM Orchestration, n8n |
-| **Languages** | Python, Kotlin, TypeScript, JavaScript, SQL, HTML5/CSS3, Bash/PowerShell |
-| **Mobile & Frontend** | Android SDK, Jetpack Compose, Material 3, Angular 21, React, Responsive UI |
-| **Backend & APIs** | FastAPI, Node.js, Express, RESTful API Design, AsyncIO, Python-Docx |
-| **Databases & Stores** | SQLite, Room Database, PostgreSQL, Firestore, JSONL Event Stores |
-| **Testing & Quality** | Pytest (TDD / Hermetic Testing), Ruff, TypeScript Compiler (`tsc`), GitGuardian |
-| **DevOps & Platforms** | Git, GitHub Actions CI/CD, Docker, Cross-Platform Engineering (Windows & Linux) |
+### Core Languages & Runtimes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Autonomous AI & Swarm Infrastructure
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Multi-Agent Swarms](https://img.shields.io/badge/Agentic_AI_Swarms-7928CA?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_3.5_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_1.5_Pro-8E75C2?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Frameworks, Backends & Mobile
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Angular 21](https://img.shields.io/badge/Angular_21-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases, Cloud & Quality Assurance
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify_PaaS-6B21A8?style=for-the-badge&logo=server&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest_(TDD)-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Contribution Activity & Velocity
+## 📈 GitHub Velocity & Activity
 
 <div align="center">
 
-### 🟩 365-Day Real-Time Contribution Heatmap
+### 🗓️ 365-Day Real-Time Activity Calendar
 <a href="https://github.com/AdityaMehra007">
-  <img src="https://ghchart.rshah.org/2ea44f/AdityaMehra007" alt="Aditya Mehra's GitHub Contributions Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/9333ea/AdityaMehra007" alt="Aditya Mehra's GitHub Contributions Calendar" width="100%" />
 </a>
 
 <br/><br/>
 
-### 🔥 Velocity, Streak & Language Footprint
+### ⚡ Velocity, Streak & Languages Footprint
 
 <table border="0" align="center">
   <tr align="center">
     <td>
-      <img src="https://streak-stats.demolab.com/?user=AdityaMehra007&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=AdityaMehra007&theme=tokyonight&hide_border=true" height="185" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaMehra007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaMehra007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" height="185" alt="GitHub Stats" />
     </td>
   </tr>
   <tr align="center">
     <td colspan="2">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMehra007&layout=compact&theme=tokyonight&hide_border=true" width="400" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMehra007&layout=compact&theme=tokyonight&hide_border=true" width="420" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -168,17 +207,18 @@ In addition to software engineering, I bring extensive ground-level operational 
 
 ---
 
-## 📬 Direct Contact
+## 📬 Direct Contact & Gateways
 
-I am actively open to high-impact roles in **Business Operations, Technical Operations, Process Management, or AI Operations**:
+I am actively available for high-velocity roles in **AI Operations, Systems Architecture, Technical Operations, or Founder's Office**:
 
 * 📍 **Location:** Bengaluru, Karnataka, India *(Immediate Joining)*
-* ✉️ **Email:** [adityamehra007@gmail.com](mailto:adityamehra007@gmail.com)
+* 📧 **Official Email:** [ashishiash007@gmail.com](mailto:ashishiash007@gmail.com)
+* 🌐 **Live Portfolio:** [adityamehra007.github.io](https://adityamehra007.github.io)
 * 🐙 **GitHub:** [@AdityaMehra007](https://github.com/AdityaMehra007)
-* 📁 **Portfolio Codebase:** [github.com/AdityaMehra007/Aditya-Mehra](https://github.com/AdityaMehra007/Aditya-Mehra)
+* 💼 **Flagship Repo:** [github.com/AdityaMehra007/anti](https://github.com/AdityaMehra007/anti)
 
 <br/>
 
 <div align="center">
-  <sub>Engineered, verified, and directed with precision by Aditya Mehra.</sub>
+  <sub>⚡ Engineered, verified, and directed with relentless precision by Aditya Mehra.</sub>
 </div>
