@@ -7,20 +7,20 @@
 <br/>
 
 <a href="https://github.com/AdityaMehra007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=750&lines=Autonomous+AI+Systems+%26+Multi-Agent+Swarm+Architect;Bengaluru+Startup+Radar+%26+Venture+Telemetry+Engineer;Model+Context+Protocol+(MCP)+Master+Fleet+Hub+Builder;Commercial+Operator+%7C+Statutory+Form+26AS+%E2%82%B91.8Cr%2B+GMV;BBA+International+Business+%7C+Dayananda+Sagar+University" alt="Aditya Mehra Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9333EA&center=true&vCenter=true&width=800&lines=Autonomous+AI+Systems+%26+19-in-1+Omni-Agent+Swarm+Architect;Planetary+Dual-Core+Operating+System+(2027)+Lead+Builder;Model+Context+Protocol+(MCP)+Fleet+Hub+(260+Tools);Deterministic+State+Machines+%26+Kernel-Level+Kotlin+Engines;Commercial+Operator+%7C+Statutory+Form+26AS+%E2%82%B91.8Cr%2B+GMV;BBA+International+Business+%7C+Dayananda+Sagar+University" alt="Aditya Mehra Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![Status: Open to Work](https://img.shields.io/badge/Status-Immediate%20Joining-brightgreen?style=for-the-badge&logo=target&logoColor=white)](mailto:ashishiash007@gmail.com)
 [![Flagship Engine](https://img.shields.io/badge/Flagship_Engine-OMEGA_Autonomous_AI-0070F3?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/AdityaMehra007/anti)
-[![Live Universe](https://img.shields.io/badge/Portfolio-adityamehra007.github.io-7928CA?style=for-the-badge&logo=githubpages&logoColor=white)](https://adityamehra007.github.io)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-009688?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Bengaluru)
+[![Planetary Core](https://img.shields.io/badge/Planetary_Core-Cashflow_Infinity_Omniverse-7928CA?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/AdityaMehra007/cashflow-infinity-omniverse)
+[![Live Universe](https://img.shields.io/badge/Portfolio-adityamehra007.github.io-009688?style=for-the-badge&logo=githubpages&logoColor=white)](https://adityamehra007.github.io)
 [![Direct Email](https://img.shields.io/badge/Email-ashishiash007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishiash007@gmail.com)
 
 ---
 
-[Executive Overview](#-executive-overview) • [Flagship Architecture](#-flagship-engineered-systems) • [Mission Control Cockpits](#-live-mission-control-cockpits) • [Proof of Work](#-statutory-proof-of-work-pow) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Velocity](#-github-velocity--activity) • [Direct Contact](#-direct-contact--gateways)
+[Executive Overview](#-executive-overview) • [Sovereign Architecture Matrix](#-the-4-sovereign-pillars) • [Crown Jewels Showcase](#-flagship-engineered-systems) • [Vertical SaaS Holdings](#-vertical-saas-fleet) • [Proof of Work](#-statutory-proof-of-work-pow) • [Tech Arsenal](#%EF%B8%8F-technical-arsenal) • [GitHub Velocity](#-github-velocity--activity) • [Direct Contact](#-direct-contact--gateways)
 
 ---
 
@@ -30,9 +30,9 @@
 
 > *"The highest-value engineering in the AI era belongs to commercial operators who direct autonomous coding swarms with architectural clarity, deep domain grounding, and unfakeable statutory proof."*
 
-I operate at the convergence of **Autonomous AI Engineering** and **High-Stakes Commercial Operations**. 
+I operate at the convergence of **Autonomous AI Engineering**, **Deterministic Systems Architecture**, and **High-Stakes Commercial Operations**. 
 
-Rather than treating AI as an autocomplete toy, I build and operate **autonomous multi-agent swarms**, **Model Context Protocol (MCP) ecosystems**, **deterministic business state machines**, and **real-time market radars**—all rigorously verified by hermetic, 100% test-driven harnesses.
+Rather than treating AI as an autocomplete toy, I design and deploy **autonomous multi-agent swarms**, **Model Context Protocol (MCP) tool fleets**, **deterministic business state machines**, and **real-time market radars**—all rigorously verified by hermetic, 100% test-driven harnesses.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
@@ -42,10 +42,27 @@ Rather than treating AI as an autocomplete toy, I build and operate **autonomous
 ├────────────────────────────────────────┼───────────────────────────────────────────────┤
 │ • ₹1.60Cr – ₹1.80Cr+ GMV scale (26AS)  │ • OMEGA 19-in-1 Omni-Agent Swarm Hierarchy    │
 │ • IRDAI Regulated Advisor (>85% Pers.) │ • MCP Master Fleet Hub (260 Tools / 24 Srvs)  │
-│ • Aero India 2025 Zero-Downtime Ops    │ • Bengaluru Startup Radar (1,000+ Startups)   │
+│ • Aero India 2025 Zero-Downtime Ops    │ • Planetary Dual-Core Conglomerate OS (2027)  │
 │ • Corporate Audits: Tata Comm & Puma   │ • 3,837 Autonomous Agent Capability Skills    │
 │ • BBA Intl Business (DSU Bengaluru)    │ • 100% Test-Driven Hermetic Quality Gateways  │
 └────────────────────────────────────────┴───────────────────────────────────────────────┘
+```
+
+---
+
+## 🏛️ The 4 Sovereign Pillars
+
+```mermaid
+flowchart TD
+    P1["PILLAR I: AGENTIC AI & MCP FLEETS<br/>(anti • 19-in-1 Swarm • 260 Tools)"]
+    P2["PILLAR II: INSTITUTIONAL CONGLOMERATE OS<br/>(cashflow-infinity-omniverse • Dual-Core)"]
+    P3["PILLAR III: DETERMINISTIC SYSTEMS & TELEMETRY<br/>(ADI-OS • BUSINESS-OS- • Eventos)"]
+    P4["PILLAR IV: VERTICAL SAAS HOLDINGS<br/>(CloudBite • Numisma • Aurelion • GymVerse)"]
+
+    P1 --> APEX["⚡ ADITYA MEHRA SOVEREIGN ARCHITECTURE"]
+    P2 --> APEX
+    P3 --> APEX
+    P4 --> APEX
 ```
 
 ---
@@ -55,56 +72,63 @@ Rather than treating AI as an autocomplete toy, I build and operate **autonomous
 ### 1. [OMEGA: Autonomous Agent Architecture & Operating System](https://github.com/AdityaMehra007/anti)
 > **Master Sovereign Engine • Python, FastAPI, Model Context Protocol, 3,837 Skills**
 
-* **19-in-1 Omni-Agent Architecture**: Autonomous execution DAG coordinating research, strategy, code generation, verification, and automated operations.
-* **Bengaluru Supreme Startup Radar (BSIE-X)**: Market telemetry analyzing **1,000+ startups, 75 live roles, 16 VC rounds, and 234 chronological market deltas** with FTS5 search.
-* **Model Context Protocol (MCP) Hub**: 260 schema-validated tools across 24 servers with composite stdio multiplexer and multi-client config exporters.
-* **100% Hermetic Test Gateways**: 406/406 verified tests across database schemas, API contracts, ATS parsers, and autonomous pipelines.
-
-```mermaid
-flowchart LR
-    A["Raw Market Ingestion<br/>(1,000+ Startups / 4,500+ Leads)"] --> B["OMEGA Autonomous Agent Swarm<br/>(FastAPI / MCP Hub)"]
-    B --> C["Deterministic Scoring & ATS Matching<br/>(Google X-Y-Z Synthesis)"]
-    C --> D["Glassmorphism Cockpits<br/>(13 Live Mission Controls)"]
-    C --> E["Submission-Ready Dossiers<br/>(STAR Defense + InMails)"]
-```
+* **19-in-1 Omni-Agent Swarm**: Autonomous execution DAG coordinating research, market reconnaissance, code generation, verification, and automated operations.
+* **Bengaluru Supreme Startup Radar (BSIE-X)**: Market telemetry engine indexing **1,000+ startups, 75 live roles, 16 funding rounds, and 234 chronological market deltas** with SQLite FTS5 search.
+* **Model Context Protocol (MCP) Fleet Hub**: 260 schema-validated tools across 24 servers with composite stdio multiplexer and multi-client config exporters.
+* **Hermetic Quality Gateways**: 406/406 verified tests across database schemas, API contracts, ATS parsers, and autonomous pipelines.
 
 ---
 
-### 2. [Eventos-Omega: Large-Scale Event Operations Engine](https://github.com/AdityaMehra007/Eventos-Omega)
-> **Enterprise Event Logistics Platform • Kotlin, Jetpack Compose, Room SQLite, Google Gemini AI**
+### 2. [CASHFLOW INFINITY: OMNIVERSE (2027 NOV)](https://github.com/AdityaMehra007/cashflow-infinity-omniverse)
+> **Planetary Dual-Core Operating System • Core Alpha Agency & Core Beta Aether Mesh • Python 3.12, FastAPI, Multi-Core Kernel**
 
-* High-concurrency event operations engine tracking crowd throughput, vendor scheduling, emergency medical dispatches, and budget reconciliation.
-* Backed by **Google Gemini AI** for real-time crowd safety incident prediction and offline-first Room persistence.
-* Validated against high-stakes logistics standards derived from on-ground Aero India 2025 operations.
+* **Dual-Core Institutional OS**: Unifies autonomous B2B client acquisition, automated fulfillment pipelines, double-entry financial ledgers, and geospatial crisis resilience mesh.
+* **17,500+ Tracked Files & 98+ Engineered Commits**: Includes LSM-tree key-value engines, Bloom filter indexing, Merkle tree cryptographic audit logs, and limit-order book matching kernels.
+* **Live Operational Cockpits**: Interactive web control planes for agency telemetry, treasury settlement, and real-time deal flow.
 
 ---
 
-### 3. [BUSINESS-OS-: Deterministic Business Tycoon Engine](https://github.com/AdityaMehra007/BUSINESS-OS-)
+### 3. [BUSINESS-OS-: Deterministic Business State Machine](https://github.com/AdityaMehra007/BUSINESS-OS-)
 > **Enterprise Business Operating System • Kotlin, Jetpack Compose Material 3, Clean Architecture**
 
-* Deterministic operational state machines modeling enterprise treasury banking, global supply chain corridors, human resource workflows, and financial reconciliation.
-* Unidirectional Data Flow (UDF) architecture with reactive Kotlin Coroutines, StateFlow, and zero external runtime dependencies.
+* **Deterministic Invariant State Engines**: Mathematical state transition graphs modeling enterprise treasury banking, global supply chain corridors, human resource workflows, and automated double-entry financial reconciliation.
+* **Unidirectional Data Flow (UDF)**: Reactive Kotlin Coroutines and StateFlow with mathematical proofs eliminating negative-balance leaks and deadlocks.
 
 ---
 
 ### 4. [ADI-OS: Modular Android System Control Platform](https://github.com/AdityaMehra007/ADI-OS)
-> **Modular Android Systems Architecture • Kotlin, Android SDK, WorkManager, Device Telemetry**
+> **Kernel-Level Android Telemetry & Control • Kotlin, Android SDK, WorkManager, Device Telemetry**
 
-* Modular device telemetry and background automation engine with adaptive power management, background task dispatching, and hardware sensor telemetry.
-* Clean architecture with reactive state flows, offline-first persistence, and CI build automation.
+* **Low-Level Hardware & Power Telemetry**: Modular device automation engine with adaptive power scheduling, sensor telemetry, and fault-tolerant background workers.
+* **Clean Architecture**: Offline-first Room persistence, reactive domain boundaries, and automated CI pipelines.
 
 ---
 
-### 5. [Aditya Mehra Official Universe Portfolio](https://github.com/AdityaMehra007/AdityaMehra007.github.io)
-> **AI-Native Interactive Web Portfolio • [Live Demo: adityamehra007.github.io](https://adityamehra007.github.io)**
+### 5. [Eventos-Omega: Large-Scale Event Operations Engine](https://github.com/AdityaMehra007/Eventos-Omega)
+> **High-Concurrency Logistics Platform • Kotlin, Jetpack Compose, Room SQLite, Google Gemini AI**
 
-* Glassmorphism executive portfolio presenting real-time project telemetry, verified case studies, interactive resume viewers, and recruiter booking interfaces.
+* High-concurrency event operations engine tracking crowd throughput, vendor scheduling, emergency medical dispatches, and budget reconciliation.
+* Backed by **Google Gemini AI** for real-time crowd safety incident prediction. Validated against high-stakes logistics standards derived from on-ground Aero India 2025 operations.
+
+---
+
+## 🏢 Vertical SaaS Fleet
+
+A diversified holding of purpose-built, industry-specific operating systems:
+
+| Micro-SaaS Product | Domain / Industry | Architecture Stack | Core Value Proposition |
+| :--- | :--- | :---: | :--- |
+| **[`CloudBite Black Label`](https://github.com/AdityaMehra007/cloudbite-)** | Luxury Cloud Kitchens & QSRs | Kotlin / Clean Arch | Real-time Kitchen Display System (KDS), recipe unit economics & multi-station dispatch. |
+| **[`Numisma Elite`](https://github.com/AdityaMehra007/Numisma-Elite)** | Numismatic Valuation & Coins | Kotlin / Computer Vision | AI coin grading, catalog authentication, rarity index, and auction marketplace. |
+| **[`PROJECT-AURELION`](https://github.com/AdityaMehra007/PROJECT-AURELION-THE-LEGACY-OILWORKS-INTELLIGENCE-PLATFORM)** | Chemical & Industrial Oilworks | Kotlin / Industrial IoT | Refinery pipeline telemetry, predictive maintenance, and batch compliance tracking. |
+| **[`GymVerse OS`](https://github.com/AdityaMehra007/GymVerse-OS)** | Fitness & Health Clubs | Kotlin / Telemetry | Live equipment utilization intelligence, crowd density monitoring, and membership billing. |
+| **[`GameVerse`](https://github.com/AdityaMehra007/GameVerse)** | Esports & Universal Gaming | Kotlin / Real-time | Discovery super-app, AI esports copilot, and tournament tournament bracket management. |
 
 ---
 
 ## 🎛️ Live Mission Control Cockpits
 
-Thirteen high-performance, single-file glassmorphism HTML dashboards engineered in [`anti`](https://github.com/AdityaMehra007/anti) with zero external build dependencies:
+High-performance glassmorphism single-file dashboards engineered in [`anti`](https://github.com/AdityaMehra007/anti) and [`cashflow-infinity`](https://github.com/AdityaMehra007/cashflow-infinity-omniverse):
 
 | Cockpit Name | Scope & Capabilities | Engine Backing |
 | :--- | :--- | :--- |
@@ -215,7 +239,7 @@ I am actively available for high-velocity roles in **AI Operations, Systems Arch
 * 📧 **Official Email:** [ashishiash007@gmail.com](mailto:ashishiash007@gmail.com)
 * 🌐 **Live Portfolio:** [adityamehra007.github.io](https://adityamehra007.github.io)
 * 🐙 **GitHub:** [@AdityaMehra007](https://github.com/AdityaMehra007)
-* 💼 **Flagship Repo:** [github.com/AdityaMehra007/anti](https://github.com/AdityaMehra007/anti)
+* 💼 **Flagship Repositories:** [anti](https://github.com/AdityaMehra007/anti) • [cashflow-infinity-omniverse](https://github.com/AdityaMehra007/cashflow-infinity-omniverse) • [BUSINESS-OS-](https://github.com/AdityaMehra007/BUSINESS-OS-) • [ADI-OS](https://github.com/AdityaMehra007/ADI-OS)
 
 <br/>
 
